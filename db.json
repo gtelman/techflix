@@ -1,0 +1,11 @@
+{
+    "categorias":[
+        {
+            "id": 1,
+            "nome": "Almoço",
+            "descricao": "Vídeos sobre o que fazer no almoço",
+            "cor": "cbd1ff"
+
+        }
+    ]
+}
